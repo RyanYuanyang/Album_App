@@ -1,3 +1,5 @@
+**Album App**
+
 This is a web-based Album sharing app developed using
 NodeJS/Express.js, JavaScript/jQuery, AJAX, HTML and CSS.
 
